@@ -50,7 +50,7 @@ class MovieSchedule implements Serializable{
 //×ùÎ»
 class Seat implements Serializable{  
 	int row;	//ÅÅ
-	int column;	//×ù
+	int column;	//×ù×ù
 	Seat(){
 
 	}
